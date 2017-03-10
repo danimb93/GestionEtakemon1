@@ -57,7 +57,7 @@ public class Main {
                     System.out.println("Resultado: " +miModelo.buscarNombre(name).nombre);
                     break;
                 case 0:
-                    System.out.println("Venga chao");
+                    System.out.println("Abandona la aplicación");
                     break;
             }
         }
